@@ -1,16 +1,22 @@
-# Zentex · `zent7x`
+# zentex · Adeeb Bashir
 
-**Software Engineer & Security Researcher.** I build tooling that sits between LLM agents and the real world — and I try to break it before anyone else does.
+Founder & engineer from Kashmir. I build AI infrastructure and break things for a living.
 
-### Stack
-
-`Go` · `TypeScript` · `Python` · `Rust` · `Solidity` · Node · Docker
+[routing.run](https://routing.run) · [Keelcode](https://keelcode.ai) · [zent7x.com](https://zent7x.com)
 
 ---
 
-### Elsewhere
+### Open source
 
-- 𝕏 / Twitter — [@zent7x](https://twitter.com/zent7x)
-- 📍 India · open to interesting software engineering & security work
+| Project | What it does |
+| --- | --- |
+| [grasp](https://github.com/zent7x/grasp) | Index huge codebases once; serve the minimal slice per agent task |
+| [codemap](https://github.com/zent7x/codemap) | Turn any repo into a self-contained explorable HTML map |
+| [cogrep](https://github.com/zent7x/cogrep) | Local semantic code search and clone detection from the terminal |
+| [tally](https://github.com/zent7x/tally) | Offline personal finance — one HTML file, no cloud |
+| [mcp-guard](https://github.com/zent7x/mcp-guard) | Security MCP — secrets, CVEs, HTTP header audits |
+| [terminal-fenster](https://github.com/zent7x/terminal-fenster) | Real Chromium browser in your terminal (Rust) |
 
-<sub>Currently contributing upstream to the MCP ecosystem.</sub>
+---
+
+**X** [@zent7x](https://x.com/zent7x) · **Email** [zentex@warm.run](mailto:zentex@warm.run)
