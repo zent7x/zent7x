@@ -15,7 +15,6 @@ Founder & engineer from Kashmir. I build AI infrastructure and break things for 
 | [cogrep](https://github.com/zent7x/cogrep) | Local semantic code search and clone detection from the terminal |
 | [tally](https://github.com/zent7x/tally) | Offline personal finance — one HTML file, no cloud |
 | [mcp-guard](https://github.com/zent7x/mcp-guard) | Security MCP — secrets, CVEs, HTTP header audits |
-| [terminal-fenster](https://github.com/zent7x/terminal-fenster) | Real Chromium browser in your terminal (Rust) |
 
 ---
 
