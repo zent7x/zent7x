@@ -1,21 +1,24 @@
 # zentex · Adeeb Bashir
 
-Founder & engineer from Kashmir. I build AI infrastructure and break things for a living.
+Founder and engineer from Kashmir. I build AI infrastructure and developer tools, and do security research on the side.
 
-[routing.run](https://routing.run) · [warm.run](https://warm.run) · [zent7x.com](https://zent7x.com)
+[zent7x.com](https://zent7x.com) · [routing.run](https://routing.run) · [warm.run](https://warm.run)
 
 ---
 
 ### Open source
 
-| Project | What it does |
-| --- | --- |
-| [grasp](https://github.com/zent7x/grasp) | Index huge codebases once; serve the minimal slice per agent task |
-| [codemap](https://github.com/zent7x/codemap) | Turn any repo into a self-contained explorable HTML map |
-| [cogrep](https://github.com/zent7x/cogrep) | Local semantic code search and clone detection from the terminal |
-| [tally](https://github.com/zent7x/tally) | Offline personal finance — one HTML file, no cloud |
-| [mcp-guard](https://github.com/zent7x/mcp-guard) | Security MCP — secrets, CVEs, HTTP header audits |
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [terminal-fenster](https://github.com/zent7x/terminal-fenster) | A real Chromium browser inside your terminal, drivable over MCP | Rust |
+| [grasp](https://github.com/zent7x/grasp) | Index huge codebases once, serve agents only the slice each task needs | Node |
+| [cogrep](https://github.com/zent7x/cogrep) | Local semantic code search and clone detection from the terminal | Rust |
+| [codemap](https://github.com/zent7x/codemap) | One command turns any repo into a self-contained, explorable HTML map | Node |
+| [mcp-guard](https://github.com/zent7x/mcp-guard) | Security MCP server: secrets, CVEs, network and header audits | Go |
+| [tally](https://github.com/zent7x/tally) | Offline personal finance in one HTML file. No account, no cloud | TypeScript |
+
+Everything here is local-first and zero or low dependency where I can manage it.
 
 ---
 
-**X** [@zent7x](https://x.com/zent7x) · **Email** [zentex@warm.run](mailto:zentex@warm.run)
+**X** [@zent7x](https://x.com/zent7x) · **Email** [zentex@warm.run](mailto:zentex@warm.run) · **Site** [zent7x.com](https://zent7x.com)
